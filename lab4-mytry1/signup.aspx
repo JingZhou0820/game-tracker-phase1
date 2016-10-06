@@ -1,6 +1,10 @@
 ﻿<%@ Page Title="Signup" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="signup.aspx.cs" Inherits="lab4_mytry1.Contact" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<!--Author: Jing Zhou & Hinaben Patel-->
+<!--Date : 07/10/2016-->
+<!--Project Name: Game Tracker-->
+<!--Description: Sign up page-->
     <div class="conatainer">
         <div class="row">
             <div class="col-md-offset-4 col-md-6">

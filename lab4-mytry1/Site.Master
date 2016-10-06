@@ -1,7 +1,10 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="lab4_mytry1.Site" %>
 
 <!DOCTYPE html>
-
+<!--Author: Jing Zhou & Hinaben Patel-->
+<!--Date : 07/10/2016-->
+<!--Project Name: Game Tracker-->
+<!--Description: Template of Site master-->
 <html>
 <head runat="server">
     <meta charset="utf-8">
@@ -64,7 +67,7 @@
     <!-- Footer -->
     <nav class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
-            <h4>&copy; 2016 - Example ASP.NET Site - All Rights Reserved</h4>
+            <h4>&copy; 2016 - Game tracker-Jing Zhou -Hinaben Patel  </h4>
         </div>
     </nav>
 

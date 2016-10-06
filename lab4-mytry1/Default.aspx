@@ -1,5 +1,10 @@
 ﻿<%@ Page Title="Students" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="lab4_mytry1.students" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <!--Author: Jing Zhou & Hinaben Patel-->
+<!--Date : 07/10/2016-->
+<!--Project Name: Game Tracker-->
+<!--Description: Home Page-->
     <div class="containter">
         <div class="row">
             <div class="col-md-offset-2 col-md-8">  
